@@ -43,6 +43,8 @@
       width: 35%;
       background-color: rgb(239, 240, 242);
       position: relative;
+      overflow: hidden;
+      margin-bottom: -6%;
    }
    &__slider-content{
       z-index: 1;
